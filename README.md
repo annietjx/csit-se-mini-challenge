@@ -7,3 +7,6 @@ On the REST API server, write two endpoints for Mighty Saver Rabbit's friends to
 2. Get a list of hotels providing the cheapest price, given the destination city, check-in date, and check-out date.
 
 
+Digital Badge awarded:
+![Uploading image.png…]()
+
